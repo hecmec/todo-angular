@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=nbFmHD4T04k
+https://github.com/hecmec/todo-angular
+
+
 # TodoAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
